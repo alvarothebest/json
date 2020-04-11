@@ -1,0 +1,632 @@
+﻿{
+    "Hoja1": [
+        {
+            "id": "7",
+            "name": "SEAT"
+        },
+        {
+            "id": "14",
+            "name": "VOLKSWAGEN"
+        },
+        {
+            "id": "13",
+            "name": "AUDI"
+        },
+        {
+            "id": "3",
+            "name": "FORD"
+        },
+        {
+            "id": "6",
+            "name": "RENAULT"
+        },
+        {
+            "id": "11",
+            "name": "BMW"
+        },
+        {
+            "id": "12",
+            "name": "MERCEDES BENZ"
+        },
+        {
+            "id": "9",
+            "name": "FIAT"
+        },
+        {
+            "id": "4",
+            "name": "OPEL"
+        },
+        {
+            "id": "5",
+            "name": "PEUGEOT"
+        },
+        {
+            "id": "8",
+            "name": "TALBOT"
+        },
+        {
+            "id": "2",
+            "name": "CITROEN"
+        },
+        {
+            "id": "10",
+            "name": "NISSAN"
+        },
+        {
+            "id": "16",
+            "name": "ALFA ROMEO"
+        },
+        {
+            "id": "15",
+            "name": "D.A.F."
+        },
+        {
+            "id": "17",
+            "name": "VOLVO"
+        },
+        {
+            "id": "18",
+            "name": "MAN/IVECO"
+        },
+        {
+            "id": "23",
+            "name": "EBRO"
+        },
+        {
+            "id": "20",
+            "name": "TOYOTA"
+        },
+        {
+            "id": "21",
+            "name": "MITSUBISHI"
+        },
+        {
+            "id": "22",
+            "name": "PEGASO"
+        },
+        {
+            "id": "24",
+            "name": "PORSCHE"
+        },
+        {
+            "id": "25",
+            "name": "JAGUAR"
+        },
+        {
+            "id": "26",
+            "name": "HONDA"
+        },
+        {
+            "id": "31",
+            "name": "MAZDA"
+        },
+        {
+            "id": "200",
+            "name": "HONDA MOTOS"
+        },
+        {
+            "id": "40",
+            "name": "ROVER"
+        },
+        {
+            "id": "42",
+            "name": "LANCIA"
+        },
+        {
+            "id": "46",
+            "name": "SAAB"
+        },
+        {
+            "id": "502",
+            "name": "CITROEN INDUST."
+        },
+        {
+            "id": "509",
+            "name": "FIAT INDUSTR."
+        },
+        {
+            "id": "503",
+            "name": "FORD INDUSTR."
+        },
+        {
+            "id": "504",
+            "name": "OPEL INDUSTR."
+        },
+        {
+            "id": "505",
+            "name": "PEUGEOT INDUST."
+        },
+        {
+            "id": "506",
+            "name": "RENAULT INDUST."
+        },
+        {
+            "id": "540",
+            "name": "ROVER INDUSTR."
+        },
+        {
+            "id": "507",
+            "name": "SEAT INDUSTR."
+        },
+        {
+            "id": "514",
+            "name": "VOLKSWAGEN IND."
+        },
+        {
+            "id": "510",
+            "name": "NISSAN INDUSTR."
+        },
+        {
+            "id": "512",
+            "name": "MERCEDES INDUS."
+        },
+        {
+            "id": "752",
+            "name": "DAIHATSU T.T"
+        },
+        {
+            "id": "704",
+            "name": "OPEL T.T"
+        },
+        {
+            "id": "706",
+            "name": "JEEP"
+        },
+        {
+            "id": "712",
+            "name": "MERCEDES T.T."
+        },
+        {
+            "id": "721",
+            "name": "MITSUBISHI T.T"
+        },
+        {
+            "id": "710",
+            "name": "NISSAN T.T."
+        },
+        {
+            "id": "720",
+            "name": "TOYOTA T.T"
+        },
+        {
+            "id": "753",
+            "name": "SUZUKI  T.T"
+        },
+        {
+            "id": "700",
+            "name": "VESPA"
+        },
+        {
+            "id": "900",
+            "name": "LADA"
+        },
+        {
+            "id": "800",
+            "name": "SUBARU"
+        },
+        {
+            "id": "905",
+            "name": "HYUNDAY"
+        },
+        {
+            "id": "27",
+            "name": "CHRYSLER"
+        },
+        {
+            "id": "513",
+            "name": "SCANIA"
+        },
+        {
+            "id": "999",
+            "name": "ROCHE"
+        },
+        {
+            "id": "740",
+            "name": "LAND ROVER"
+        },
+        {
+            "id": "703",
+            "name": "FORD T.T"
+        },
+        {
+            "id": "104",
+            "name": "OPEL (98-99)"
+        },
+        {
+            "id": "727",
+            "name": "CHRYSLER  T.T."
+        },
+        {
+            "id": "53",
+            "name": "SUZUKI"
+        },
+        {
+            "id": "518",
+            "name": "IVECO"
+        },
+        {
+            "id": "550",
+            "name": "PIAGGIO"
+        },
+        {
+            "id": "99",
+            "name": "LEASE PLAN"
+        },
+        {
+            "id": "520",
+            "name": "TOYOTA INDUST."
+        },
+        {
+            "id": "100",
+            "name": "SERVICIO EMPRE."
+        },
+        {
+            "id": "300",
+            "name": "MAQ. ESPECIAL"
+        },
+        {
+            "id": "754",
+            "name": "SSANGYONG"
+        },
+        {
+            "id": "751",
+            "name": "CHEVROLET T.T."
+        },
+        {
+            "id": "28",
+            "name": "PONTIAC"
+        },
+        {
+            "id": "29",
+            "name": "CHEVROLET"
+        },
+        {
+            "id": "30",
+            "name": "INNOCENTI"
+        },
+        {
+            "id": "98",
+            "name": "MOTOCICLETAS"
+        },
+        {
+            "id": "755",
+            "name": "KIA T.T."
+        },
+        {
+            "id": "756",
+            "name": "ROCSTA"
+        },
+        {
+            "id": "508",
+            "name": "MAN"
+        },
+        {
+            "id": "517",
+            "name": "VOLVO INDUST."
+        },
+        {
+            "id": "105",
+            "name": "OPEL (99-00)"
+        },
+        {
+            "id": "950",
+            "name": "."
+        },
+        {
+            "id": "765",
+            "name": "TATA"
+        },
+        {
+            "id": "55",
+            "name": "KIA"
+        },
+        {
+            "id": "555",
+            "name": "KIA INDUST."
+        },
+        {
+            "id": "955",
+            "name": "HYUNDAY INDUST."
+        },
+        {
+            "id": "521",
+            "name": "MITSUBISHI IND."
+        },
+        {
+            "id": "811",
+            "name": "BMW MOTO"
+        },
+        {
+            "id": "850",
+            "name": "YAMAHA MOTO"
+        },
+        {
+            "id": "726",
+            "name": "HONDA T.T."
+        },
+        {
+            "id": "32",
+            "name": "CADILLAC"
+        },
+        {
+            "id": "51",
+            "name": "CHEVROL.(OLD)"
+        },
+        {
+            "id": "33",
+            "name": "SKODA"
+        },
+        {
+            "id": "847",
+            "name": "KAWASAKI MOTO"
+        },
+        {
+            "id": "301",
+            "name": "FRUEHAUF"
+        },
+        {
+            "id": "302",
+            "name": "LECIÑENA"
+        },
+        {
+            "id": "303",
+            "name": "SEMI-REMOLQUE"
+        },
+        {
+            "id": "812",
+            "name": "DERBI"
+        },
+        {
+            "id": "780",
+            "name": "SUBARU T.T"
+        },
+        {
+            "id": "34",
+            "name": "SMART"
+        },
+        {
+            "id": "304",
+            "name": "LECITRAILER"
+        },
+        {
+            "id": "305",
+            "name": "MONTENEGRO"
+        },
+        {
+            "id": "35",
+            "name": "GALLOPER"
+        },
+        {
+            "id": "708",
+            "name": "GALLOPER"
+        },
+        {
+            "id": "38",
+            "name": "ASTON MARTIN"
+        },
+        {
+            "id": "36",
+            "name": "MASERATI"
+        },
+        {
+            "id": "37",
+            "name": "LEXUS"
+        },
+        {
+            "id": "39",
+            "name": "FERRARI"
+        },
+        {
+            "id": "106",
+            "name": "OPEL (00-01)"
+        },
+        {
+            "id": "758",
+            "name": "ISUZU T.T."
+        },
+        {
+            "id": "711",
+            "name": "BMW T.T."
+        },
+        {
+            "id": "558",
+            "name": "ISUZU INDUSTRIA"
+        },
+        {
+            "id": "975",
+            "name": "HYUNDAI"
+        },
+        {
+            "id": "107",
+            "name": "OPEL (01-02)"
+        },
+        {
+            "id": "306",
+            "name": "IPV"
+        },
+        {
+            "id": "131",
+            "name": "MAZDA T.T"
+        },
+        {
+            "id": "43",
+            "name": "ROLLS ROYCE"
+        },
+        {
+            "id": "717",
+            "name": "VOLVO T.T"
+        },
+        {
+            "id": "108",
+            "name": "OPEL (02-03)"
+        },
+        {
+            "id": "714",
+            "name": "VOLKSWAGEN TT"
+        },
+        {
+            "id": "56",
+            "name": "LOTUS"
+        },
+        {
+            "id": "44",
+            "name": "LAMBORGHINI"
+        },
+        {
+            "id": "790",
+            "name": "HUMMER"
+        },
+        {
+            "id": "57",
+            "name": "MINI"
+        },
+        {
+            "id": "19",
+            "name": "LAND ROVER OLD"
+        },
+        {
+            "id": "58",
+            "name": "MG"
+        },
+        {
+            "id": "59",
+            "name": "BENTLEY"
+        },
+        {
+            "id": "52",
+            "name": "CORVETTE"
+        },
+        {
+            "id": "45",
+            "name": "DACIA"
+        },
+        {
+            "id": "60",
+            "name": "SANTANA"
+        },
+        {
+            "id": "47",
+            "name": "DODGE"
+        },
+        {
+            "id": "66",
+            "name": "GENERICO"
+        },
+        {
+            "id": "769",
+            "name": "MAHINDRA"
+        },
+        {
+            "id": "61",
+            "name": "INFINITI"
+        },
+        {
+            "id": "48",
+            "name": "ABARTH"
+        },
+        {
+            "id": "533",
+            "name": "SKODA INDUST."
+        },
+        {
+            "id": "49",
+            "name": "AA MARCAS STOCK"
+        },
+        {
+            "id": "845",
+            "name": "DACIA IND."
+        },
+        {
+            "id": "705",
+            "name": "A"
+        },
+        {
+            "id": "545",
+            "name": "OTROS"
+        },
+        {
+            "id": "724",
+            "name": "PORSCHE T.T"
+        },
+        {
+            "id": "72",
+            "name": "BOBCAT"
+        },
+        {
+            "id": "73",
+            "name": "BUCHER"
+        },
+        {
+            "id": "74",
+            "name": "CANICAS"
+        },
+        {
+            "id": "75",
+            "name": "DULEVO"
+        },
+        {
+            "id": "76",
+            "name": "ECOLOGICA"
+        },
+        {
+            "id": "77",
+            "name": "HAKO"
+        },
+        {
+            "id": "78",
+            "name": "KUBOTA"
+        },
+        {
+            "id": "79",
+            "name": "MASSEY FERGUSSO"
+        },
+        {
+            "id": "80",
+            "name": "MODEC"
+        },
+        {
+            "id": "81",
+            "name": "MORO"
+        },
+        {
+            "id": "82",
+            "name": "DS"
+        },
+        {
+            "id": "83",
+            "name": "PIQUERSA"
+        },
+        {
+            "id": "84",
+            "name": "RAVO"
+        },
+        {
+            "id": "85",
+            "name": "SCHMIDT"
+        },
+        {
+            "id": "89",
+            "name": "TENNANT"
+        },
+        {
+            "id": "737",
+            "name": "LEXUS TT"
+        },
+        {
+            "id": "62",
+            "name": "TESLA"
+        },
+        {
+            "id": "132",
+            "name": "DFSK"
+        },
+        {
+            "id": "90",
+            "name": "CUPRA"
+        },
+        {
+            "id": "761",
+            "name": "INFINITI TT"
+        }
+    ]
+}
